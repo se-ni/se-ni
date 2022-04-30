@@ -1,16 +1,12 @@
-# se-ni
-___
 > ## MyInfo
 
 👧 **Name** : 박세은, Park SeEun
 
 🏫 **College** : Hallym University
 
-🎓 **Major** : Software Convergence, Big-data
-
+🎓 **Major** : Software Convergence, Big-data   
 
 > ## 💡 Activity 💡
-
 ### 📅 2018년
 
 - **2월,** 구리 인창고등학교 졸업
@@ -34,6 +30,8 @@ ___
 ___
 ### 📅 2022년
 - **3월,** 제 4대 빅데이터 학생회 '라온' 학생회장
-___
    
 > ## 🏆 Awards 🏆
+> ## 💯 certificate 💯
+ - IoT 지식능력검정 자격증
+ - 정보처리기사 자격증
