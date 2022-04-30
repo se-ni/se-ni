@@ -1,4 +1,4 @@
-> ## MyInfo
+> ## 🕵️ MyInfo 🕵️
 
 👧 **Name** : 박세은, Park SeEun
 
