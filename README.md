@@ -60,8 +60,10 @@
 
 
 > ## 💯 Certificate 💯
- - IoT 지식능력검정 자격증
- - 정보처리기사 자격증   
+ - 20.11.15 IoT 지식능력검정 자격증, KIoT-CP
+ - 22.03.02 Microsoft Access (Office 2016), Microsoft
+ - 22.03.03 Microsoft Excel Expert (Office 2016), Microsoft
+ - 정보처리기사 자격증, HRDK
 
 > ## 📂 Portfolio 📂   
 ⚠️ ... Getting ready ... ⚠️
