@@ -9,6 +9,10 @@
 
 🎓 **Major** : Software Convergence, Big-data 
 
+Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Phython&logoColor=white"/>
+
 
 > ## 	🏫 Education 🏫
 - 구리 인창중학교 졸업 (2015년)   
