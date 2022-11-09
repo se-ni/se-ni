@@ -10,7 +10,7 @@
 
 🎓 **Major** : Software Convergence, Big-data 
 
-**Tech Stack** : 
+:orange_book: **Tech Stack** : 
 
  
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
