@@ -82,5 +82,5 @@
 
 
 > ## 📂 Portfolio 📂   
-[ VR/AR/게임제작기초 ](https://github.com/se-ni/VR-AR-Basics-of-game-creation.git)
+- [ VR/AR/게임제작기초 Term Project ](https://github.com/se-ni/VR-AR-Basics-of-game-creation.git)
 </div>
