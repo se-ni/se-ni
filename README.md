@@ -43,7 +43,7 @@
 > ## 💡 Activity 💡
 ### 📅 2018년				
 <details>   
-<summary> 자세히 </summary> 
+<summary> Details </summary> 
  
  
  **2월,** 구리 인창고등학교 졸업      
@@ -60,7 +60,7 @@
 
 ### 📅 2019년
 <details>   
-<summary> 자세히 </summary> 
+<summary> Details </summary> 
  
  
  **3월,** 제 1대 소프트웨어융합대학 학생회 '열기' 총괄부장   
@@ -73,7 +73,7 @@
 ### 📅 2020년
 
 <details>   
-<summary> 자세히 </summary> 
+<summary> Details </summary> 
  
  
  **3월,** 제 2대 소프트웨어융합대학 'STEP' 홍보국장    
@@ -87,7 +87,7 @@
 ### 📅 2021년
 
 <details>   
-<summary> 자세히 </summary> 
+<summary> details </summary> 
  
  
  **2월,** 제튼 (VR 앱 개발 회사) 인턴 퇴사     
