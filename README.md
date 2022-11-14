@@ -119,7 +119,7 @@
    |취득날짜|자격증명|수여기관|
 |:-----:|:----------:|:-------:|
 |20/11/15|IoT 지식능력검정|KIoT-CP|
-|20/03|Microsoft Office Specialist 2016 Master|YBM IT|
+|20/6/08|Microsoft Office Specialist 2016 Master|YBM IT|
 |22/06/17|정보처리기사|HRDK|
 
 
