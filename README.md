@@ -2,7 +2,7 @@
 
 > ##  Who am I ..🕵️
 
-👧 **Name** : 박세은, Park SeEun
+👧 **Name** : 박세은 (Park-SeEun)
 
 🌏 **Nationality** : South Korea
 
