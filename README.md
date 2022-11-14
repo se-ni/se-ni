@@ -87,7 +87,7 @@
 ### 📅 2021년
 
 <details>   
-<summary> details </summary> 
+<summary> Details </summary> 
  
  
  **2월,** 제튼 (VR 앱 개발 회사) 인턴 퇴사     
@@ -99,7 +99,7 @@
 ### 📅 2022년
 
 <details>   
-<summary> 자세히 </summary> 
+<summary> Details </summary> 
  
  
  **3월,** 제 4대 빅데이터전공 학생회 '라온' 학생회장   
