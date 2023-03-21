@@ -1,6 +1,6 @@
 <div align=center>
 
-> ##  Who am I ..🕵️
+> ## Profile 🕵️
 
 👧 **Name** : 박세은 (Park-SeEun)
 
@@ -9,6 +9,12 @@
 🏫 **College** : Hallym University
 
 🎓 **Major** : Software Convergence, Big-data 
+
+**📱 Contact** : se__ni@naver.com
+
+
+**🔗 Notion** : [Click Here!](https://www.notion.so/IT-b41c8b308de04217b1ae92936ba9cd66?pvs=4)
+
 
 :orange_book: **Tech Stack** : 
 
@@ -21,104 +27,8 @@
 <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 
-
-<!--ex. # -> %23 , + -> %2B-->    
-
-
+<br/><br/>
 > ## 	🏫 Education 🏫
- 구리 인창중학교 졸업 (2015년)   
- 구리 인창고등학교 졸업 (2018년)   
- 한림대학교 재학 (2023년 졸업 예정)    
-
-
-> ## 🏆 Awards 🏆   
-  
-  |수상년도|대회명|팀명|수상내역|주제|
-|:-----:|:----------:|:-------:|:----:|:----:|
-|2019|한림대학교 1차 창업동아리 경진대회|사랑보다 뜨겁게|동상|발열깔창|
-||한림대학교 최종 창업동아리 경진대회|사랑보다 뜨겁게|동상|발열깔창|
-||제 20회 강원대 대학생 창업 경진대회|사랑보다 뜨겁게|장려상|발열깔창|
-|2020|최종 한림대학교 창업동아리 경진대회|E&S|은상|자동으로 풀리는 안전벨트|
-||한림대학교 캡스톤디자인 경진대회|Edu-Unit|은상|Covid-19 교육용 VR 프로그램|
-  
-
-> ## 💡 Activity 💡
-### 📅 2018년				
-<details>   
-<summary> Details </summary> 
- 
- 
- **2월,** 구리 인창고등학교 졸업      
- **2월,** 한림대학교 IT계열 입학     
- **3월,** 한림대학교 제 11대 융합소프트웨어학과 학생회 'WITHUS' 홍보부원    
- **3월,** 한림대학교 중앙 연극동아리 '한림극회' 부원 가입    
- **3월,** 소프트웨어융합대학 운동동아리 'DEFY' 매니저 가입       
- **3월,** 소프트웨어융합대학 운동동아리 'DASH' 매니저 가입      
- **3월,** 소프트웨어융합대학 학술동아리 'MULTIPLEX' 부원 가입    
- **3월,** 소프트웨어융합대학 학술동아리 'VIP' 부원 가입    
- 
-</details>
- 
-
-### 📅 2019년
-<details>   
-<summary> Details </summary> 
- 
- 
- **3월,** 제 1대 소프트웨어융합대학 학생회 '열기' 총괄부장   
- **3월,** 소프트웨어융합대학 운동동아리 'BLESS' 매니저 가입   
- **4월,** 한림대학교 창업동아리 '사랑보다 뜨겁게' 부원   
- 
-</details>  
-
- 
-### 📅 2020년
-
-<details>   
-<summary> Details </summary> 
- 
- 
- **3월,** 제 2대 소프트웨어융합대학 'STEP' 홍보국장    
- **3월,** 소프트웨어융합대학 학술동아리 'MULTIPLEX' 부회장    
- **4월,** 한림대학교 창업동아리 'E&S' 부원    
- **12월,** 제튼(VR 앱 개발 회사) 동계 인턴 입사  
- 
-</details> 
-
- 
-### 📅 2021년
-
-<details>   
-<summary> Details </summary> 
- 
- 
- **2월,** 제튼 (VR 앱 개발 회사) 인턴 퇴사     
- **3월,** 휴학 (1년) 
- 
-</details> 
-
- 
-### 📅 2022년
-
-<details>   
-<summary> Details </summary> 
- 
- 
- **3월,** 제 4대 빅데이터전공 학생회 '라온' 학생회장   
- **4월~ 6월** 학술동아리 'MULTIPLEX' 자바 프로그래밍1 멘토
- 
-</details> 
-
-
-> ## 💯 Certificate 💯
-
-   |취득날짜|자격증명|발급기관|
-|:-----:|:----------:|:-------:|
-|20/11/15|IoT 지식능력검정|KIoT-CP|
-|20/06/08|Microsoft Office Specialist 2016 Master|YBM IT|
-|22/06/17|정보처리기사|HRDK|
-
-
-> ## 📂 Portfolio 📂   
-\- [ VR/AR/게임제작기초 Term Project ](https://github.com/se-ni/VR-AR-Basics-of-game-creation.git)
-</div>
+ - 구리 인창중학교 졸업 (2015년)   
+ - 구리 인창고등학교 졸업 (2018년)   
+ - 한림대학교 졸업 (2023년)
