@@ -12,6 +12,8 @@
 
 
 🎓 **Double Major** : Software Convergence, Contents-IT
+
+
 **📱 Contact** : se__ni@naver.com
 
 
