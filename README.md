@@ -8,8 +8,8 @@
 
 🏫 **College** : Hallym University
 
-🎓 **Major** : Software Convergence, Big-data 
-
+🎓 **Major** : Software Convergence, Big-Data 
+🎓 **Double Major** : Software Convergence, Contents-IT
 **📱 Contact** : se__ni@naver.com
 
 
